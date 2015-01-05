@@ -111,12 +111,12 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:017113_0000_0FA02F49C5F4EAE8"/>
-            <pb facs="tcp:017113_0001_0FA02F4A826C77D8"/>
+            <pb facs="unknown:017113_0000_0FA02F49C5F4EAE8"/>
+            <pb facs="unknown:017113_0001_0FA02F4A826C77D8"/>
             <p>PRESIDENT CLAP, ON TERRESTRIAL COMETS.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:017113_0002_0FA02F4B495079C8"/>
+            <pb facs="unknown:017113_0002_0FA02F4B495079C8"/>
             <p>CONJECTURES UPON THE NATURE AND MOTION OF METEORS, WHICH ARE ABOVE THE ATMOSPHERE.</p>
             <p>BY THOMAS CLAP, A. M. LATE PRESIDENT OF YALE COLLEGE.</p>
             <p>
@@ -127,7 +127,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:017113_0003_0FA02F4BF24EFF70"/>
+            <pb facs="unknown:017113_0003_0FA02F4BF24EFF70"/>
             <head>CONJECTURES UPON THE NATURE AND MOTION OF METEORS, &amp;c.</head>
             <p>UPON ſeveral obſervations made upon ſundry Meteors, which have appeared in Europe and New-England, I have collected the following general phaenomena:</p>
             <p n="1">I. THEY appear like round balls of fire, or globes of red hot iron, or white hot iron, ready to melt, as large as the ſun or moon, in the meridian, com<g ref="char:EOLhyphen"/>monly ſurrounded with a flame which appears like a tail, with ſtreams and ſparkles net ſo bright as the body. They frequently exceed the light of the moon, and in ſome inſtances that of the ſun, ſo as to make a ſhadow in the cleareſt ſunſhine.</p>
@@ -136,7 +136,7 @@
                   <desc>•</desc>
                </gap>e Meteors, during the time in which they have been obſerved, have been coming nearer to the earth, and others going farther from it.</p>
             <p n="4">
-               <pb n="6" facs="tcp:017113_0004_0FA02F4D31625D50"/>
+               <pb n="6" facs="unknown:017113_0004_0FA02F4D31625D50"/>
 IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> tranſit, m<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -186,7 +186,7 @@ IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
             <p n="1">I. IF the apparent diameter of theſe fiery globes is equal to thoſe of the ſun or moon, in the meridian, and ſubtends an angle of above half a degree, at the diſtance of 50 miles from the obſerver, then it is evident that their real diameter is half a mile at leaſt.</p>
             <p n="2">II. IT ſeems evident that theſe globes are ſolid and firm, at leaſt as to the ex<g ref="char:EOLhyphen"/>ternal parts.</p>
             <p n="1">1. BECAUSE, they preſerve their globular ſhape and motion throughout their whole courſe, and after the exploſion. For if they conſiſted only of inflammable
-<pb n="7" facs="tcp:017113_0005_0FA02F4DA10DC2F0"/>matter, of the nature of pulvis fulminans, or a train of gun-powder, fired at one and, (as ſome of the lower Meteors ſeem to do) there would be no probability that they would inva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="7" facs="unknown:017113_0005_0FA02F4DA10DC2F0"/>matter, of the nature of pulvis fulminans, or a train of gun-powder, fired at one and, (as ſome of the lower Meteors ſeem to do) there would be no probability that they would inva<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>iably preſerve their exact globular ſhape; but would melt down, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -325,7 +325,7 @@ IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
             <p>IF it ſhould be objected, the clouds are not ſolid bodies, and yet they emit a vio<g ref="char:EOLhyphen"/>lent exploſion;—to this I reply, that the exploſion of thunder and lightning is but very ſmall, in compariſon with that of a Meteor; for, thunder is rarely heard 10 miles, whereas, a Meteor may be heard above 100; and the thunder muſt be within half a mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e, to be heard as loud as a Meteor at the diſtance of 30. And upon computation of the different diſtances and rarity of the air, it will appear, that the
-<pb n="8" facs="tcp:017113_0006_0FA02F4E4B1E86F0"/>exploſion of thunder is not a 10,000th part ſo great as that of a ſuperior Meteor; and yet a cloud, containing 5,000,000 t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="8" facs="unknown:017113_0006_0FA02F4E4B1E86F0"/>exploſion of thunder is not a 10,000th part ſo great as that of a ſuperior Meteor; and yet a cloud, containing 5,000,000 t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ns of water, when it diſcharges it<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -348,7 +348,7 @@ IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note> And 6,700,000 being the ſquare of that number of which 17,000,000,000 is the cube, will repreſent the proportion of the diſtance in which the humming of the Meteor will be heard farther than that of a cannon-ball: And being diminiſhed to a 500th part on account of the rarity of the atmoſphere, the proportion will be as 13,400 to 1. And becauſe the humming of
-<pb n="9" facs="tcp:017113_0007_0FA02F4F01A4DE30"/>the cannon-ball is heard but a 50th part ſo far as the report of a cannon, that num<g ref="char:EOLhyphen"/>ber muſt be divided by 50, which will make the humming noiſe of the Meteor equal to the report of 268 cannon, at the diſtance of 25 miles. And the exproſion of the Meteor being repreſented to be equal to 100 cannon at that diſtance, the humming<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="9" facs="unknown:017113_0007_0FA02F4F01A4DE30"/>the cannon-ball is heard but a 50th part ſo far as the report of a cannon, that num<g ref="char:EOLhyphen"/>ber muſt be divided by 50, which will make the humming noiſe of the Meteor equal to the report of 268 cannon, at the diſtance of 25 miles. And the exproſion of the Meteor being repreſented to be equal to 100 cannon at that diſtance, the humming<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſe will be 14th part of it. And this humming noiſe will be leſs, as the diſtance or altitude of the Meteor is greater.</p>
             <p n="4">IV. THE great exploſion and flame attending theſe Meteors, is cauſed by the diſcharge of electrical fire, collected by the friction of the atmoſphere, and emitted about the time, or a little after, it approaches neareſt to the earth, and becomes overcharged. I ſuppoſe electrical fire is not eſſentially different from common fire, and is a kind of univerſal element diffuſed, in ſome degree, into almoſt all bodies in the univerſe, and, by friction, may be collected into a much greater quantity in ſome particular bodies: And, when the whole ſuddenly ruſhes out in one place or ſtream, it is there ſo greatly collected or condenſed, like the rays of the ſun in a focus, that it becomes common fire, capable of inflaming any combuſtible matter; and, by the extreme celerity of its motion, ſo violently agitates the air, as that its elaſtick ſpring becomes ſenſible to the ear. Common experience teaches, that when a col<g ref="char:EOLhyphen"/>lection of viſible fire is once begun, the friction of the air upon it, at the velocity of half a mile a minute (as in the blowing of a pair of bellows) will inflame and increaſe it to a very great degree: And, therefore, it is reaſonable to ſuppoſe, that the fric<g ref="char:EOLhyphen"/>tion of the air, at the velocity of 1000 half miles in a minute, (the force of which is 1,000,000 to 1) will collect fire where it was not begun before, or but in a low degree; as all bodies grow warm by friction: And, we find by experience, that fire is often collected by ſoft bodies, which do not make ſo great a reſiſtance as conden<g ref="char:EOLhyphen"/>ſed air, though moved with a velocity much <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -371,7 +371,7 @@ IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>•</desc>
                </gap>, or elſe 17,500 times ſo many pounds at the velocity of the leather.</p>
             <p>A GLORE paſſing very ſwiftly through the air, drives before it a column of air al<g ref="char:EOLhyphen"/>moſt equal to itſelf. The elaſtick force of the air will not be ſufficient to overcome
-<pb n="10" facs="tcp:017113_0008_0FA02F4FADE67530"/>its vis inertiae, ſo as ſuddenly to protrude the air much before it, or on either fide. By the mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="10" facs="unknown:017113_0008_0FA02F4FADE67530"/>its vis inertiae, ſo as ſuddenly to protrude the air much before it, or on either fide. By the mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> of ſound, we ſee that the elaſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -436,7 +436,7 @@ IV. <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>•</desc>
                </gap>ail directly down.</p>
             <p n="6">
-               <pb n="11" facs="tcp:017113_0009_0FA02F50ED675E08"/>
+               <pb n="11" facs="unknown:017113_0009_0FA02F50ED675E08"/>
 VI. IT is beyond the power of any laws of nature, already known, to give ſuch a heavy body ſuch a prodigious projectile velocity, above 20 times ſo great as tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> of a cannon ball; and by multip<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -581,7 +581,7 @@ VI. IT is beyond the power of any laws of nature, already known, to give ſuch a
             </p>
             <p>To a perſon who ſtands at the perigee, at the diſtance of 428 miles, it will appear almoſt in the horizon.</p>
             <p>
-               <pb n="12" facs="tcp:017113_0010_0FA02F51894F3978"/>
+               <pb n="12" facs="unknown:017113_0010_0FA02F51894F3978"/>
 THIS calculation ſeems to anſwer exactly to all the apparent motions of theſe Ter<g ref="char:EOLhyphen"/>reſtria<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Comets, and particularly that they appear firſt to be 50 or 100 miles diſtant from the earth, then, in their courſe, to come within 20 or 30 miles of it, and af<g ref="char:EOLhyphen"/>terwards are at a greater diſtance again; as may be clearly ſeen in the delineation annexed: It alſo ſeems to determine its real velocity with a greater preciſion than the moſt critical obſervations hitherto made: For, if it moves leſs than 300 miles in a minute, it muſt, in a little time, fall to the earth; and if it moves more than 428, it muſt go off in an hyperbola.</p>
@@ -638,7 +638,7 @@ THIS calculation ſeems to anſwer exactly to all the apparent motions of theſe
                   <desc>•</desc>
                </gap>ts. As M. Whiſton ſup<g ref="char:EOLhyphen"/>poſes, the Comet, at the flood, accelerated the motion of the earth, and made its annual revolution 5 days and a quarter longer than it was before.</p>
             <p>
-               <pb n="13" facs="tcp:017113_0011_0FA02F5232287FF8"/>
+               <pb n="13" facs="unknown:017113_0011_0FA02F5232287FF8"/>
 OUR obſervations have heretofore been ſo imperfect, as that we cannot eaſily de<g ref="char:EOLhyphen"/>termine minute circumſtances; but the general theory ſeems highly probable, if not certain, that theſe ſuperior Meteors are ſolid bodies, half a mile in diameter, re<g ref="char:EOLhyphen"/>volving round the earth in long elipſes, their leaſt diſtance being about 20 or 30 miles; that, by their friction upon the atmoſphere, they make a conſtant rumbling noiſe, and collect electrial fire; and, when they come neareſt to the earth, or a lit<g ref="char:EOLhyphen"/>tle after, being then overcharged, they make an exploſion as loud as a large cannon.</p>
             <p>I SHALL add one conjecture reſpecting the uſe and benefit of theſe Meteors.—It is poſſible that, by their violent exploſion and agitation, they may cleanſe and purify the air, and render it more ſalubrious to mankind; much more than thunder and lightning. There is an obſervation in the Phil. Tranſ. Abr. Vol. VIII, page 519, which ſeems much to favour this conjecture; it is in theſe words: <q>A Meteor was ſeen over England and Ireland, and at Venice, at the ſame time: It appeared like a great ball of fire, which burſt with an exploſion which ſhook great part of the iſland, and ſeemed to ſet the whole atmoſphere on fire. This Meteor put a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
